@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 //for showing error 
 ini_set('display_errors', 1);

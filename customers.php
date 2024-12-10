@@ -1,4 +1,4 @@
-<?php
+<?php 
 class Customers
 {
     private $servername = "localhost";

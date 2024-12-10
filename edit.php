@@ -1,4 +1,4 @@
-<?php
+<?php 
   
   // Include database file
   include 'customers.php';
